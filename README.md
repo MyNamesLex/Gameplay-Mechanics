@@ -36,7 +36,7 @@ This is a tech demo for an implementation of sword combat, It features different
 
 ## Jams
 
-Jam games I have done in this engine are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
+Jam games I have done in Unity and Unreal Engine 5  are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
 
 # Unreal Engine 5
 
@@ -61,4 +61,4 @@ Made A Third Person Player Controller Using Blueprints And C++. Using Blend Spac
 
 ## Jams
 
-Jam games I have done in this engine are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
+Jam games I have done in Unreal Engine 5 and Unity are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
