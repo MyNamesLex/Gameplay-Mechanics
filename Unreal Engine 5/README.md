@@ -2,8 +2,6 @@
 
 (This repo only involves use of the Unreal Engine 5 Game Engine using the C++ language and Blueprints)
 
-This repo includes projects where I wanted to try out an idea or test something out
-
 To download a build or directory, use this link <a href="https://download-directory.github.io/">here</a>
 
 ## PC
