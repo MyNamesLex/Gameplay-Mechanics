@@ -14,12 +14,6 @@ This is a demo using the Wii Remote using this <a href="https://github.com/Flafl
 
 This demo is very buggy and only currently allows to control the Wii Remote's lights and requires the Wii Remote to be reset after using, this was mainly to have a look around at the Wii Remote and just have fun playing with it
 
-## Mobile
-
-### AR Demo
-
-I wanted to test out and see how AR Games worked, I used Unity to develop a demo for Android Mobile only, to play. You wait until you see grey panels and tap to play a cube, then you can give the cube treats by swiping up to give him spheres.
-
 ## PC
 
 ### Player Controller Tech Demo
