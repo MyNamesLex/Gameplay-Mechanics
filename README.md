@@ -24,7 +24,7 @@ This is a player controller I made during my spare time for fun. It contains the
 
 This is a simulation of a phone with home screen pages, apps, receiving message function from an input field. I wanted to try out a different type of demo to explore new aspects that I haven't really touched on or explored before such as pointer event data and event systems.
 
-### Sword Combat Tech Demo
+### Sword Combat
 
 An implementation of sword combat, It features different states the enemy and player can be in and due to this different outcomes can occur. Based off the 'rock, paper, scissors' game design structure to a degree.
 
