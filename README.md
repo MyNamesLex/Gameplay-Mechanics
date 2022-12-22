@@ -1,8 +1,10 @@
-# Unity Tech Demos
+# Gameplay Mechanics
 
-(This repo only involves use of the Unity Game Engine using the C# language)
+This repository features gameplay mechanics I have done for Unity and Unreal Engine 5
 
 To download a build or directory, use this link <a href="https://download-directory.github.io/">here</a>
+
+# Unity 
 
 ## Wii
 
@@ -31,6 +33,31 @@ This is a simulation of a phone with home screen pages, apps, receiving message 
 ### Sword Combat Tech Demo
 
 This is a tech demo for an implementation of sword combat, It features different states the enemy and player can be in and due to this different outcomes can occur. Based off the 'rock, paper, scissors' game design structure to a degree.
+
+## Jams
+
+Jam games I have done in this engine are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
+
+# Unreal Engine 5
+
+## PC
+
+### Player Controller
+
+First Time Trying Out Unreal Engine 5 And Made A Player Controller And A Shoot Mechanic
+
+### AI
+
+Trying Out Making AI In Unreal Engine 5, Using Animation State Machines For The AI Aswell As NavMesh, Blueprints Connected To C++ And A Player Controller With A Shoot Mechanic.
+
+### Gun Types
+
+Coding Different Types Of Guns. These Are A Rifle, Pistol And Rocket Launcher With Different Rate Of Fire And Damage Dealing Values. Also Coded Different Types Of Targets For The Player To Shoot At. These Include Stationary Targets, Moving Targets Going From One Point To Another In A Repeatable Pattern And A Target Which Moves To A Random Location.
+
+### Third Person Player Controller
+
+Made A Third Person Player Controller Using Blueprints And C++. Using Blend Spaces To Make Animations Look Smoother, I Would Of Made A Blend Space For Crawling But I Could Not Find The Animations For Crawling Left, Back And Crawling Right So I Was Unable Too.
+
 
 ## Jams
 
