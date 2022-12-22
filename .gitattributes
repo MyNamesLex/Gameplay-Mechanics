@@ -1,0 +1,7 @@
+*.html linguist-detectable=false
+*.h linguist-detectable=false
+*.aspx linguist-detectable=false
+*.shader linguist-detectable=false
+*.css linguist-detectable=false
+*.cginc linguist-detectable=false
+*.txt linguist-detectable=false

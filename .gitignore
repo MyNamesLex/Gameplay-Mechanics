@@ -1,0 +1,6 @@
+**/Logs/**
+**/obj/**
+**/bin/**
+*.preset
+*.meta
+**/PackageCache
