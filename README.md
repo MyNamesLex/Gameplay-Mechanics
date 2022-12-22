@@ -28,10 +28,6 @@ This is a simulation of a phone with home screen pages, apps, receiving message 
 
 An implementation of sword combat, It features different states the enemy and player can be in and due to this different outcomes can occur. Based off the 'rock, paper, scissors' game design structure to a degree.
 
-## Jams
-
-Jam games I have done in Unity and Unreal Engine 5  are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
-
 # Unreal Engine 5
 
 ## PC
@@ -52,7 +48,6 @@ Coding Different Types Of Guns. These Are A Rifle, Pistol And Rocket Launcher Wi
 
 Made A Third Person Player Controller Using Blueprints And C++. Using Blend Spaces To Make Animations Look Smoother, I Would Of Made A Blend Space For Crawling But I Could Not Find The Animations For Crawling Left, Back And Crawling Right So I Was Unable Too.
 
+# Jams
 
-## Jams
-
-Jam games I have done in Unreal Engine 5 and Unity are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
+Jam games I have done in Unity and Unreal Engine 5 are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
