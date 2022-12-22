@@ -1,6 +1,6 @@
 # Phone Simulation
 
-This is a simulation of a phone I decided to do
+This is a bare bones simulation of a phone I decided to do that could be a gameplay mechanic in a game.
 
 ## Controls
 

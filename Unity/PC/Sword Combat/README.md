@@ -1,6 +1,6 @@
 # Sword Combat
 
-This is a tech demo for sword combat.
+This is a gameplay mechanic for sword combat.
 
 There is no animations for swinging or blocking, there is states to show what the player is doing in the top left of the screen and the enemy states in the bottom left.
 

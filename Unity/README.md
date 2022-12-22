@@ -1,6 +1,6 @@
-# Unity Tech Demos
+# Unity Gameplay Mechanics
 
-(This repo only involves use of the Unity Game Engine using the C# language)
+(This section only involves use of the Unity Game Engine using the C# language)
 
 To download a build or directory, use this link <a href="https://download-directory.github.io/">here</a>
 
