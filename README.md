@@ -16,17 +16,17 @@ This demo is very buggy and only currently allows to control the Wii Remote's li
 
 ## PC
 
-### Player Controller Tech Demo
+### Player Controller
 
 This is a player controller I made during my spare time for fun. It contains the following features. Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, Upwards and Downwards gravity. On the more programming side it features a finite state machine to help with ease of development
 
-### Phone Simulator Tech Demo
+### Phone Simulator
 
 This is a simulation of a phone with home screen pages, apps, receiving message function from an input field. I wanted to try out a different type of demo to explore new aspects that I haven't really touched on or explored before such as pointer event data and event systems.
 
 ### Sword Combat Tech Demo
 
-This is a tech demo for an implementation of sword combat, It features different states the enemy and player can be in and due to this different outcomes can occur. Based off the 'rock, paper, scissors' game design structure to a degree.
+An implementation of sword combat, It features different states the enemy and player can be in and due to this different outcomes can occur. Based off the 'rock, paper, scissors' game design structure to a degree.
 
 ## Jams
 
