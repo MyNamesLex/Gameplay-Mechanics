@@ -20,7 +20,7 @@ This is a player controller I made during my spare time for fun. It contains the
 
 ### Phone Simulator
 
-This is a simulation of a phone with home screen pages, apps, receiving message function from an input field. I wanted to try out a different type of demo to explore new aspects that I haven't really touched on or explored before such as pointer event data and event systems.
+This is a simulation of a phone with the ability to swipe between home screen pages, apps, receiving/sending in game messages function from an input field. I wanted to try out a different type of demo to explore new aspects that I haven't really touched on or explored before such as pointer event data and event systems.
 
 ### Sword Combat 
 
