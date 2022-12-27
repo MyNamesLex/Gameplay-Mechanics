@@ -15,5 +15,9 @@ Left Click - Swing Sword
 
 Right Click - Block
 
+## Credit
+Prototype textures - https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127
+Skybox - https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-skybox-pack-free-150926
+
 ## Footnote
 Art and Level Design is just for testing purposes, my aim with this was to make a Sword Combat Tech Demo, not an actual game

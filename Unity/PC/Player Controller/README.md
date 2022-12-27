@@ -4,7 +4,7 @@ This is a first person player controller
 
 ## Features
 
-This code features the following - Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, Upwards and Downwards gravity. On the more programming side it features a finite state machine to help with ease of development
+This code features the following - Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Rounded Edges, Keycode bindings in editor for sprinting, jumping, sliding, crouching, ground slamming and weapon equips. Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, Easy Camera Sensitivity Editing, Upwards and Downwards gravity as well as Y velocity limits. Moreover, this features a finite state machine to help with ease of development
 
 ## Controls
 WASD - Move
@@ -22,6 +22,10 @@ Left Click - Shoot
 2 - Equip Shotgun
 
 3 - Equip Knife
+
+## Credit
+Prototype textures - https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127
+Skybox - https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-skybox-pack-free-150926
 
 ## Footnote
 Art and Level Design is just for testing purposes, my aim with this was to make a Player Controller, not an actual game
