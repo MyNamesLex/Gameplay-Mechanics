@@ -4,7 +4,7 @@ This is a simulation of a phone I decided to do that could be a gameplay mechani
 
 ## Features
 
-This features everything a normal phone would have, swiping to go to next page, clickin g on apps, exiting apps and the ability to send and recieve in game messages
+This features everything a normal phone would have, swiping to go to next page, clicking on apps, exiting apps and the ability to send and recieve in game messages
 
 ## Controls
 
