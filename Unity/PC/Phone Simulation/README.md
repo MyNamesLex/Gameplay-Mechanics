@@ -1,6 +1,10 @@
 # Phone Simulation
 
-This is a bare bones simulation of a phone I decided to do that could be a gameplay mechanic in a game.
+This is a simulation of a phone I decided to do that could be a gameplay mechanic in a game.
+
+## Features
+
+This features everything a normal phone would have, swiping to go to next page, clickin g on apps, exiting apps and the ability to send and recieve in game messages
 
 ## Controls
 
