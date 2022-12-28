@@ -28,7 +28,7 @@ This is a simulation of a phone with the ability to swipe between home screen pa
 
 An implementation of sword combat, It features different states the enemy and player can be in and due to this different outcomes can occur. Based off the 'rock, paper, scissors' game design structure to a degree.
 
-## Weather System
+### Weather System
 
 This features a day / night cycle that's slightly desynced as to reflect seasons in real life. It also features different weathers for day time which is randomised every time it turns to day. These can also be forceably called through the Alpha numbers on the keyboard.
 
