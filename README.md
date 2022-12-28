@@ -30,6 +30,10 @@ An implementation of sword combat, It features different states the enemy and pl
 
 ## Weather System
 
+This features a day / night cycle that's slightly desynced as to reflect seasons in real life. It also features different weathers for day time which is randomised every time it turns to day. These can also be forceably called through the Alpha numbers on the keyboard.
+
+I utilised volume profiles, HDRP and volumes to change the HDRI sky and post processing effects happening.
+
 ## Features
 
 This features a day / night cycle that's slightly desynced as to reflect seasons in real life. It also features different weathers for day time which is randomised every time it turns to day. These can also be forceably called through the Alpha numbers on the keyboard.
