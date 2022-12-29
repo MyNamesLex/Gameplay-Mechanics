@@ -26,6 +26,7 @@ Left Click - Shoot
 ## Credit
 Prototype textures - https://assetstore.unity.com/packages/2d/textures-materials/gridbox-prototype-materials-129127
 Skybox - https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-skybox-pack-free-150926
+Water Shader - https://assetstore.unity.com/packages/p/simple-water-shader-hdrp-207454
 
 ## Footnote
 Art and Level Design is just for testing purposes, my aim with this was to make a Player Controller, not an actual game
