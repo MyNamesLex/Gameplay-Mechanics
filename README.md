@@ -16,6 +16,10 @@ This demo is very buggy and only currently allows to control the Wii Remote's li
 
 ## PC
 
+### NPC
+
+This features capabilities for activities, movement, cancellation of activities being done based of the time in game and independantly of eachother. This also features NPC dialogue.
+
 ### Player Controller
 
 This is a player controller I made during my spare time for fun. It contains the following features. Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, customisable Upwards and Downwards gravity for the player. On the more programming side it features a finite state machine to help with ease of development
