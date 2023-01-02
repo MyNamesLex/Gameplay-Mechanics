@@ -38,10 +38,6 @@ This features a day / night cycle that's slightly desynced as to reflect seasons
 
 I utilised volume profiles, HDRP and volumes to change the HDRI sky and post processing effects happening.
 
-This features a day / night cycle that's slightly desynced as to reflect seasons in real life. It also features different weathers for day time which is randomised every time it turns to day. These can also be forceably called through the Alpha numbers on the keyboard.
-
-I utilised volume profiles, HDRP and volumes to change the HDRI sky and post processing effects happening.
-
 # Unreal Engine 5
 
 ## PC
