@@ -2,8 +2,6 @@
 
 This repository features gameplay mechanics I have done for Unity and Unreal Engine 5
 
-To download a build or directory, use this link <a href="https://download-directory.github.io/">here</a>
-
 # Unity 
 
 ## Wii
