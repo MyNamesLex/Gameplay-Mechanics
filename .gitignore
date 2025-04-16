@@ -4,3 +4,4 @@
 *.preset
 *.meta
 **/PackageCache
+.meta
